@@ -24,7 +24,8 @@
 
 ## 📸 Screenshot
 
-> *(Add your screenshot here showing the calculator UI)*
+![Calculator Screenshot](screenshot.png)
+
 
 ---
 
@@ -40,7 +41,7 @@
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/advanced-calculator.git
+git clone https://github.com/Alexashok99/CalculatorADV.git
 cd advanced-calculator
 
 # Install dependencies
