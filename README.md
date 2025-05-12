@@ -24,8 +24,8 @@
 
 ## 📸 Screenshot
 
-![Calculator Screenshot](screenshot.png,unit_convertor.png)
-
+![Calculator Screenshot](screenshot.png)
+![Calculator Screenshot](screenshot.png)
 
 ---
 
